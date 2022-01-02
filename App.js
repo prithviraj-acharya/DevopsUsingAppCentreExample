@@ -58,6 +58,7 @@ const App = () => {
           }}>
           This is my line.
         </Text>
+        <Text>This is my new feature-1.</Text>
       </ScrollView>
     </SafeAreaView>
   );
