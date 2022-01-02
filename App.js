@@ -31,6 +31,7 @@ const App = () => {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <Text>My name is Prithviraj</Text>
+        <Text>This is my new App Centre CI CD change in feature.</Text>
       </ScrollView>
     </SafeAreaView>
   );
