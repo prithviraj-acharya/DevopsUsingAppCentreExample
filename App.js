@@ -32,6 +32,7 @@ const App = () => {
         style={backgroundStyle}>
         <Text>My name is Prithviraj</Text>
         <Text>This is my new App Centre CI CD change in feature.</Text>
+        <Text>This is my line.</Text>
       </ScrollView>
     </SafeAreaView>
   );
