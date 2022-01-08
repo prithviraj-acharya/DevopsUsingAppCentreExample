@@ -48,7 +48,7 @@ const App = () => {
       <ScrollView
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
-        <Text>My name is Prithviraj</Text>
+        <Text>My name is Prithviraj. I work in Honeywell. </Text>
         <Text>This is my new App Centre CI CD change in feature.</Text>
         <Text
           style={{ padding: 100 }}
@@ -59,6 +59,7 @@ const App = () => {
           This is my line.
         </Text>
         <Text>This is my new feature-1.</Text>
+        <Text>This is my new feature-3.</Text>
       </ScrollView>
     </SafeAreaView>
   );
